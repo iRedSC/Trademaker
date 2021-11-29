@@ -1,0 +1,48 @@
+[
+    {
+      "function": "minecraft:set_lore",
+      "lore": [
+        [
+          {
+            "text": "Trades ",
+            "color": "yellow"
+          },
+          {
+            "text": "------------------",
+            "color": "white"
+          }
+        ],
+        {
+          "nbt": "trademaker.data.trades[0].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[1].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[2].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[3].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[4].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[5].name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        }
+      ]
+    }
+  ]
+  

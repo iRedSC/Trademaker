@@ -7,4 +7,5 @@
 # scoreboard setup
     scoreboard objectives add tm.temp dummy
 
-#test
+# function calling
+    function trademaker:setup/ui

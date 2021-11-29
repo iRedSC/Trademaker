@@ -17,7 +17,7 @@ pipeline:
 
 meta:
   namespace:
-    pack: "{{ project_name | lower }}"
-    messages: "messages"
+    pack: "trademaker"
+    messages: "ui"
   mecha:
     keep_comments: true
