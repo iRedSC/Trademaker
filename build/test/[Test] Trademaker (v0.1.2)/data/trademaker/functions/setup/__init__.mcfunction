@@ -5,6 +5,6 @@
 #   #minecraft:load
 
 # scoreboard setup
-    scoreboard objectives add tm.temp dummy
+scoreboard objectives add tm.temp dummy
 
 #test
