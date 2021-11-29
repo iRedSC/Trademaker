@@ -13,4 +13,12 @@
     data modify storage trademaker:ui ui.global.hover.header set value '{}'
     data modify storage trademaker:ui ui.global.footer set value '{"text":"=============================","bold":true,"color":"#CC0000"}'
 
+# buttons
+    # boolean
+        data modify storage trademaker:ui ui.button.bool.template.off set value '{"text":"[■   ]","color":"#CC0000"}'
+        data modify storage trademaker:ui ui.button.bool.template.on set value '{"text":"[   ■]","color":"#CC0000"}'
+
+    # cycle
+        data modify storage trademaker:ui ui.button.cycle.template.left set value '{}'
+        data modify storage trademaker:ui ui.button.cycle.template.right set value '{}'
 
