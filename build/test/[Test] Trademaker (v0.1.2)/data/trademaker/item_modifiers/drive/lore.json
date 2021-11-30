@@ -1,6 +1,7 @@
 [
     {
       "function": "minecraft:set_lore",
+      "entity": "this",
       "lore": [
         [
           {
@@ -13,32 +14,42 @@
           }
         ],
         {
-          "nbt": "trademaker.data.trades[0].name",
+          "nbt": "trademaker.data.trades[0].Name",
           "storage": "trademaker:temp",
           "interpret": true
         },
         {
-          "nbt": "trademaker.data.trades[1].name",
+          "nbt": "trademaker.data.trades[1].Name",
           "storage": "trademaker:temp",
           "interpret": true
         },
         {
-          "nbt": "trademaker.data.trades[2].name",
+          "nbt": "trademaker.data.trades[2].Name",
           "storage": "trademaker:temp",
           "interpret": true
         },
         {
-          "nbt": "trademaker.data.trades[3].name",
+          "nbt": "trademaker.data.trades[3].Name",
           "storage": "trademaker:temp",
           "interpret": true
         },
         {
-          "nbt": "trademaker.data.trades[4].name",
+          "nbt": "trademaker.data.trades[4].Name",
           "storage": "trademaker:temp",
           "interpret": true
         },
         {
-          "nbt": "trademaker.data.trades[5].name",
+          "nbt": "trademaker.data.trades[5].Name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[6].Name",
+          "storage": "trademaker:temp",
+          "interpret": true
+        },
+        {
+          "nbt": "trademaker.data.trades[7].Name",
           "storage": "trademaker:temp",
           "interpret": true
         }
